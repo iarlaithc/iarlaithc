@@ -1,3 +1,2 @@
-Iarlaith, software intern,
-Frontend qualification, backend interests.
-Work as .NET dev
+iarlaith, software intern,
+Frontend qualification, backend and embedded systems interests
