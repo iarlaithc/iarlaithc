@@ -1,1 +1,1 @@
-Software Developer for Siemens, not much goes on here ngl
+Software Developer for Dotmatics/Siemens, not much goes on this public github
